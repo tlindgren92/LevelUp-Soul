@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/status-Production-brightgreen" alt="Статус">
     <img src="https://img.shields.io/badge/license-Apache%202.0-yellow" alt="Лицензия">
   </div>
-</p>
+</p> 
 
 ---
 
